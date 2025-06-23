@@ -50,16 +50,22 @@ myntra-clone/
 
 ---
 🛠️ What I Learned
-Structuring real-world websites using semantic HTML.
-Implementing responsive design using CSS only.
-Handling layout issues with Flexbox.
-Optimizing UI for multiple screen sizes.
+Structuring real-world websites using semantic HTML
+
+Implementing responsive design using CSS only
+
+Handling layout issues with Flexbox
+
+Optimizing UI for multiple screen sizes
 
 📌 Future Enhancements
-Add JavaScript interactivity (e.g. dropdown menus, cart functionality).
-Integrate product filtering or sorting.
-Build product details and checkout pages.
+Add JavaScript interactivity (e.g. dropdown menus, cart functionality)
+
+Integrate product filtering or sorting
+
+Build product details and checkout pages
 
 💡 Credits
-Myntra for UI inspiration.
-Google Fonts (Material Symbols).
+Myntra for UI inspiration
+
+Google Fonts (Material Symbols)
