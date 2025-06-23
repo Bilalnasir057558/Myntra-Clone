@@ -1,5 +1,7 @@
 # 🛍️ Myntra Clone (HTML + CSS)
 
+[🔗 Live Site](https://bilalnasir057558.github.io/Myntra-Clone/)
+
 A responsive clone of [Myntra](https://www.myntra.com), one of India's leading fashion e-commerce platforms. This project is built using **pure HTML and CSS** to practice and demonstrate frontend layout design skills.
 
 ---
